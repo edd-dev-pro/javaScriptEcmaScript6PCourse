@@ -1,0 +1,19 @@
+{
+  "name": "javascriptecmascript6pcourse",
+  "version": "1.0.0",
+  "description": "entendiendo ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edu117/javaScriptEcmaScript6PCourse.git"
+  },
+  "author": "eduardo martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edu117/javaScriptEcmaScript6PCourse/issues"
+  },
+  "homepage": "https://github.com/edu117/javaScriptEcmaScript6PCourse#readme"
+}
