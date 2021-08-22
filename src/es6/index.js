@@ -231,3 +231,5 @@ const generatorsHello = helloWord()
 console.log(generatorsHello.next().value) // con value obtenemos el valor retornado.
 console.log(generatorsHello.next().value)
 console.log(generatorsHello.next().value)
+
+// Esto es muy importante cuando estemos trabajando una serie de algoritmos (logicas) que queramos establecer desde nuestro lado y ver como podemos ir ejecutandolos - Caso de uso Serie Fibonacci
